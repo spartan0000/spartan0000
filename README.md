@@ -3,17 +3,17 @@
 ## What I've Built
 
 ### Referral Triage Extension
-Browser extension that automates surgical referral triage using established pathways. Reads the referral portal, applies clinical logic, recommends: ACCEPT / REVIEW / REQUEST_INFO. 
+Browser extension that automates colonoscopy referral triage using established pathways. Reads the referral portal, applies clinical logic, recommends: ACCEPT / REVIEW / REQUEST_INFO. 
 - **Status**: Prototype built and functional.  Working on deployment into real clinical use
 - **Tech**: Chrome extension, FastAPI, OpenAI API
 
-### Procedure Transcription App
+### Colonoscopy Transcription App
 Dictation → transcription → structured clinical notes. Handles medical terminology, generates summaries. 
 - **Status**: Prototype built and functional.  Deployment and recruitment of end users in progress  
 - **Tech**: Python, FastAPI, OpenAI Whisper, PostgreSQL, SQLAlchemy
 
 ### Clinical Decision Support System
-Post-procedure triage and management recommendations. Currently in ethics approval for pilot study.
+Post-colonoscopy triage and management recommendations. Currently in ethics approval for pilot study.
 - **Status**: Deployed, pilot study pending
 - **Tech**: Python, FastAPI, OpenAI API, Azure
 
