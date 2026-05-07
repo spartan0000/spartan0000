@@ -25,7 +25,7 @@ I don't build healthcare tools in a vacuum. I *do* the work. I know which admin 
 
 - Clinical workflows & constraints
 - Healthcare regulation & compliance
-- Python, FastAPI, LLMs
+- Python, FastAPI, SQL, LLMs
 - Shipping products with real users
 - Building in regulated environments
 
