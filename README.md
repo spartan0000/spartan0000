@@ -33,4 +33,4 @@ I don't build healthcare tools in a vacuum. I *do* the work. I know which admin 
 
 If you're building in healthcare, interested in clinical validation, or want to chat about automating the boring parts of medicine:
 
-[LinkedIn](www.linkedin.com/in/d-s-lee-md-mph)
+[LinkedIn](https://www.linkedin.com/in/d-s-lee-md-mph)
