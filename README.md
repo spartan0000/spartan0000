@@ -1,6 +1,4 @@
-# Hi, I'm a Surgeon Building Clinical Automation
-
-I'm a surgeon building clinical automation tools
+# Hi, I'm a Surgeon Building Clinical Automation Tools
 
 ## What I've Built
 
