@@ -7,7 +7,7 @@ Browser extension that automates colonoscopy referral triage using established p
 - **Status**: Prototype built and functional.  Working on deployment into real clinical use
 - **Tech**: Chrome extension, FastAPI, OpenAI API
 
-### Colonoscopy Transcription App
+### Transcription App
 Dictation → transcription → structured clinical notes. Handles medical terminology, generates summaries. 
 - **Status**: Prototype built and functional.  Deployment and recruitment of end users in progress  
 - **Tech**: Python, FastAPI, OpenAI Whisper, PostgreSQL, SQLAlchemy
